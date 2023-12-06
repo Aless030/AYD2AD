@@ -1,0 +1,44 @@
+/* Estilos personalizados */
+.custom-width {
+    max-width: 700px; /* Ajusta el valor según tu preferencia */
+    margin: 0 auto; /* Esto centra el div horizontalmente en la página */
+}
+
+/* Estilo para el título principal */
+.text-center {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilo para la información adicional */
+.text-center p {
+    margin-bottom: 20px;
+}
+
+/* Estilo para el archivo adjunto */
+.form-control-file {
+    padding: 10px;
+}
+
+/* Estilo para el texto de información sobre el archivo adjunto */
+.file-info {
+    font-size: 12px;
+    color: #777;
+}
+
+/* Estilo para el botón Registrar */
+.btn-primary {
+    
+    border: none;
+    width: 100%;
+}
+
+
+.card {
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    align-items: center;
+}
+
+  
